@@ -1,4 +1,4 @@
-# FLutter NO-TODO app
+# Flutter NO-TODO app
 
 A Flutter application that serves as a NOT-todo list. 
 You can add, remove, update/edit your anti-todo list.  
